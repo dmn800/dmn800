@@ -1,9 +1,7 @@
 ### My name is Dmitriy. Welcome! :v:
 <b>About me:</b>
-+ I'm in computer programming
-+ At 2012 Finished Perm National Research Polytechnic University (Faculty of Applied Mathematics and Mechanics)
-+ I learn Java at [Job4j](https://job4j.ru/) :coffee:
-+ My Java experience is 2 years :neckbeard:
++ I'm in Data Science and ML engineering
++ At 2012 Finished Perm National Research Polytechnic University (Faculty of Applied Mathematics and Mechanics - Mathematical modeling of system and processes)
 
 <b>Core technologies:</b>
 
